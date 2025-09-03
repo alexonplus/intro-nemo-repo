@@ -1,0 +1,18 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        bool tired = true; 
+
+        if (tired)
+        {
+            Console.WriteLine("Drink coffee ");
+        }
+        else
+        {
+            Console.WriteLine("Keep coding ");
+        }
+    }
+}
